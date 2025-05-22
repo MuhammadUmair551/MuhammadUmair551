@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap and C++**
 
-- 📫 How to reach me: **ua5600103@gmail.com** **03098671683**
+- 📫 How to reach me: **ua5600103@gmail.com**, **03098671683**
 
 - ⚡ Fun fact: *99% debugging, 1% coffee. Wait, I meant 99% coffee...*
 
@@ -35,10 +35,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umair-dev&show_icons=true&theme=radical" alt="Umair's GitHub Stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Umair-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Umair's GitHub Stats" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair-dev&theme=radical" alt="Umair's GitHub Streak" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-dev&layout=compact&theme=radical" alt="Umair's Top Languages" />
 </p>
 
@@ -47,10 +47,10 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-umair-992393316/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
+<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-umair-992393316/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
 <a href="mailto:ua5600103@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
-  </a>
+  </a>&nbsp;
 <a href="[https://instagram.com/your_username](https://www.instagram.com/umair___rr/)" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
 </a>
@@ -58,4 +58,4 @@
 
 ---
 
-⭐️ From [Umair-dev](https://github.com/Umair-dev)
+⭐️ From [MuhammadUmair551]([https://github.com/Umair-dev](https://github.com/MuhammadUmair551))
