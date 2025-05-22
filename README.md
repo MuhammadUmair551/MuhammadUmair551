@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **ua5600103@gmail.com**, **03098671683**
 
-- ⚡ Fun fact: *99% debugging, 1% coffee. Wait, I meant 99% coffee...*
+- ⚡ Fun fact: *Tabs over spaces. Fight me.*
 
 ---
 
