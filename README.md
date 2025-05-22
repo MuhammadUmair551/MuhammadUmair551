@@ -35,11 +35,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umair-dev&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Umair's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmair551&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Umair's GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umair-dev&theme=radical" alt="Umair's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmair551&theme=radical" alt="Umair's GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umair-dev&layout=compact&theme=radical" alt="Umair's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmair551&layout=compact&theme=radical" alt="Umair's Top Languages" />
 </p>
 
 ---
