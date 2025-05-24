@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: **ua5600103@gmail.com**, **03098671683**
 
-- ⚡ Fun fact: *Tabs over spaces. Fight me.*
-
 ---
 
 ### 🛠️ Languages and Tools
