@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Full Stack Web Development, DSA in C++, and JavaScript**
+- 🌱 I’m currently learning **Full Stack Web Development, DSA in C++**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap and C++**
 
