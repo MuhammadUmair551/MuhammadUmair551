@@ -29,7 +29,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:1080/1*wGdP-ym3kqQopOA9us8nXg.jpeg" width="40"/>
   <img src="https://opensourcealternatives.org/images/supabase.webp" width="40"/>
   <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" width="40"/>
-  <img src="https://toppng.com/uploads/preview/react-logo-icon-11609374122d9vkbptqap.png" width="40"/>
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" width="40"/>
 </p>
 
 ---
