@@ -1,63 +1,66 @@
-<h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
-<h3 align="center">A Passionate Full Stack Learner & Developer</h3>
+<h1 align="center">Hi, I'm Muhammad Umair</h1>
+<h3 align="center">Full Stack Learner | DSA Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;JavaScript+Enthusiast;Learning+Everyday;DSA+Lover;Let's+Build+Together&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Full+Stack+Development;React+%7C+TypeScript+%7C+Firebase;Building+Projects+Everyday;Problem+Solver+%7C+DSA+in+C%2B%2B;Open+to+Collaborations&center=true&width=800&height=45">
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Full Stack Web Development, DSA in C++**
+### About Me
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap and C++**
-
-- 📫 How to reach me: **ua5600103@gmail.com**, **03098671683**
+- Currently learning Full Stack Web Development and DSA.
+- Ask me about Frontend
+- Reach me: ua5600103@gmail.com | 03098671683
 
 ---
 
-### 🛠️ Languages and Tools
+### Tech Stack (Learning)
 
+**Frontend**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://miro.medium.com/v2/resize:fit:1080/1*wGdP-ym3kqQopOA9us8nXg.jpeg" width="40"/>
-  <img src="https://opensourcealternatives.org/images/supabase.webp" width="40"/>
-  <img src="https://firebase.google.com/static/images/brand-guidelines/logo-logomark.png" width="40"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,tailwind" />
+</p>
+
+**Backend & Database**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs" />
+</p>
+
+**Programming & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadUmair551&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Umair's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmair551&theme=radical" alt="Umair's GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmair551&layout=compact&theme=radical" alt="Umair's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MuhammadUmair551&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadUmair551&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUmair551&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🌐 Connect with me:
+### Connect
 
 <p align="left">
-<a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-umair-992393316/)" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>&nbsp;
-<a href="mailto:ua5600103@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="30" />
-  </a>&nbsp;
-<a href="[https://instagram.com/your_username](https://www.instagram.com/umair___rr/)" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="30" width="30" />
-</a>
+  <a href="https://www.linkedin.com/in/muhammad-umair-992393316/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/umair___rr/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:ua5600103@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-⭐️ From [MuhammadUmair551]([https://github.com/Umair-dev](https://github.com/MuhammadUmair551))
+From [MuhammadUmair551](https://github.com/MuhammadUmair551)
