@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Umair</h1>
-<h3 align="center">Full Stack Learner | DSA Student</h3>
+<h3 align="center">Full Stack Learner | CS student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Full+Stack+Development;React+%7C+TypeScript+%7C+Firebase;Building+Projects+Everyday;Problem+Solver+%7C+DSA+in+C%2B%2B;Open+to+Collaborations&center=true&width=800&height=45">
@@ -9,9 +9,9 @@
 
 ### About Me
 
-- Currently learning Full Stack Web Development and DSA.
+- Currently learning Full Stack Web Development(MERN).
 - Ask me about Frontend
-- Reach me: ua5600103@gmail.com | 03098671683
+- Reach me: ua5600103@gmail.com | +92 309 867 1683
 
 ---
 
